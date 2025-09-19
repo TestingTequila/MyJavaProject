@@ -6,6 +6,8 @@ public class DataTypesConcepts {
         //byte [1 byte =8 bits, range : -128 to +127]
         byte b1 = -128;
         byte b2 = 127;
+        System.out.println(b1);
+
 
         //short [2 bytes = 16 bits, range: -32768 to 32767]
         short s1 = -32768;

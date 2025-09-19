@@ -1,0 +1,22 @@
+1. What are variables
+2. How do we create variables in Java
+    a) dataType variableName = value;  [The value we want to store is responsible for deciding the data type]
+
+    b)  dataType variableName;
+        variableName = value;
+
+    Data Types:
+    Primitive Data Types: [byte, short, int, long], (float, double)], char, boolean
+     we know in advance how much memory it will consume
+     we don't need objects to use primitive data types
+
+    Non-Primitive Data Types: String, Arrays....etc
+     we don't know in advance how much memory it will consume
+     we need objects to use primitive data types
+
+     Criteria to Select Data Type [32766]
+       -mathematical Calculations [ignore byte/short data types]
+       -Check Range
+       -Check least memory consuming data type
+
+       10;
