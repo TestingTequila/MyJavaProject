@@ -9,9 +9,6 @@ public class DataTypeSelectionExample
 
     //short sum =b1+b2;
 
-
-
     byte age =33;
-
     short s1 =3132;
 }
