@@ -21,7 +21,5 @@ public class MiscExample {
         int j = 78;
         System.out.println(--j);//77
         System.out.println(j);//77
-
-
     }
 }
