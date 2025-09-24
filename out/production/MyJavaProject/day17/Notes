@@ -1,0 +1,18 @@
+Loops: Repetitive Tasks
+
+1. while loop
+    define a variable
+    while(apply condition over variable)
+    {
+       action performed if condition is true;
+       I/D operator;
+    }
+2. for loop
+
+        for(define a variable ; apply condition over variable;I/D operator)
+        {
+           action performed if condition is true;
+
+        }
+
+3. advanced for loop [for each loop]
