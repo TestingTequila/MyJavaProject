@@ -16,3 +16,7 @@ Loops: Repetitive Tasks
         }
 
 3. advanced for loop [for each loop]
+   for(DataTypeOfGroup aliasName: NameOfTheGroup)
+   {
+       action
+   }
