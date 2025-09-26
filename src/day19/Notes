@@ -8,6 +8,14 @@ Visual Representation of Class & Object from memory perspective
 Garbage Collector
 
 =============================================
-John
-Kerrie
-Ben
+
+Employee --Class
+Employee emp1= new Employee();
+
+User   --Class
+User u1= new User();
+User u2= new User();
+
+Application ---Class
+Application app1= new Application();
+
