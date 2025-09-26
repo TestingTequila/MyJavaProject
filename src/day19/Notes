@@ -1,0 +1,13 @@
+What is Class: A class is template
+What is Object: Every copy of the class is called its Object
+What is relationship b/w class & Object: An object is a copy of class
+How class and object are related through syntax:
+  ==> NameOfTheClassWhoseCopyYouWantToCreate nameOfTheCopy= new NameOfTheClassWhoseCopyYouWantToCreate();
+Memory - Heap and Stack Memory
+Visual Representation of Class & Object from memory perspective
+Garbage Collector
+
+=============================================
+John
+Kerrie
+Ben
