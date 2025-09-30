@@ -1,0 +1,14 @@
+Methods:
+
+accessModifier[public/private/protected] returnType[void/dataTypes] methodName(can/t parameters)
+{
+
+}
+
+   public void makingTea()
+{
+     water+sugar+milk powder + ginger powder;
+}
+
+
+private accessModifiers cannot be accessed outside the class in which they exist
