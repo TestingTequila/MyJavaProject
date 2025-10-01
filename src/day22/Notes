@@ -1,0 +1,11 @@
+Variables:
+Global Variables: These are shared by multiple methods of the same class
+                  When we want different methods can take same inputs
+
+Parameters      : We don't want to share our variables with other methods of the same class
+                  When we want different methods can take different inputs
+
+
+local variables : We don't want to share our variables with other methods of the same class
+                  When you want your methods to give same output for different objects
+                  local variables always needs to be initialized while being created,if we are using it.
