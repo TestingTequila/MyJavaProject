@@ -1,0 +1,10 @@
+OOPs Concepts:
+-method Overloading: In a class we can have two or more methods with the same name, provided
+                     their signatures are different
+
+                     How to make signature different
+                     i)   by changing the data type of parameters
+                     ii)  by changing the order of data types of parameters
+                     iii) by changing the count of parameters
+
+ Method overloading happens within the same class
