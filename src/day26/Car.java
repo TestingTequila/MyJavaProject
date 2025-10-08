@@ -1,6 +1,6 @@
 package day26;
 
-public class Car
+public class Car extends Vehicle
 {
     public  void start()
     {
