@@ -1,6 +1,6 @@
 package day28;
 
-public class Test {
+public class TestAbstraction {
     public static void main(String[] args) {
         System.out.println("====Object of Class A=====");
         A a = new A();
@@ -29,6 +29,9 @@ public class Test {
         d.subtraction(12,4);
         d.multiplication(12,4);
         d.division(12,4);
+
+        //Base base =new Base(); We cannot create object of a base class
+
 
 
     }
