@@ -1,0 +1,7 @@
+1. Can we override an overloaded method?=> Yes
+2. Overload an overridden method? => Yes
+3. Override an overloaded static method? => No
+4. Overload an overridden static method? => No
+5. Can we override from parent and Grand parent as Well => Yes [not for static/final methods]
+
+Inheritance among CLASSES in not possible in Java
