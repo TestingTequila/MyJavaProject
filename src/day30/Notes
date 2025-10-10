@@ -1,0 +1,61 @@
+SELENIUM: Programming Language[Java] + Element Locators (HTML)
+
+Anything that we see on a web page, we call it a web element
+To create web elements on a web page, we use html
+
+<tagName attribute1="value1" attribute2="value2" attribute3="value3" .........attributeN="valueN" />
+<tagName attribute1="value1" attribute2="value2" attribute3="value3" .........attributeN="valueN"></tagName>
+<tagName attribute1="value1" attribute2="value2" attribute3="value3" .........attributeN="valueN">innerText</tagName>
+
+HTML for email textbox
+
+<input type="text" name="email" value="" placeholder="E-Mail" id="input-email" class="form-control">
+tagName = input
+count of attributes = 6
+value of placeholder attribute = E-Mail
+value of class attribute = form-control
+which attribute has the value as email = name
+which attribute has the value as input-email= id
+
+<input type="password" name="password" value="" placeholder="Password" id="input-password" class="form-control">
+
+tagName = input
+how many attributes = 6
+what is the value of placeholder attribute = Password
+which attribute has the value as Password = Placeholder
+
+<input type="submit" value="Login" class="btn btn-primary">
+tagName = input
+count of attributes = 3
+what is the value of class attribute = btn btn-primary
+which attribute has the value Login = value
+
+<a href="https://janbaskdemo.com/index.php?route=account/forgotten">Forgotten Password</a>
+
+tagName =a
+countOfAttributes =1
+href = https://janbaskdemo.com/index.php?route=account/forgotten
+
+<tagName attribute1="value1" attribute2="value2" attribute3="value3" .........attributeN="valueN">innerText</tagName>
+innerText = Forgotten Password
+
+<a href="https://janbaskdemo.com/index.php?route=account/register" class="btn btn-primary">Continue</a>
+tagName = a
+countOfAttributes =2
+class = btn btn-primary
+innerText=Continue
+
+<a href="https://testrigor.com/?utm_campaign=Selectors%20Hub&amp;utm_source=selectorshub&amp;utm_medium=xpp&amp;eid=LYFcml" target="_blank" rel="noopener">Find out how to automate these controls without XPath</a>
+tagName = a
+countOfAttributes =3
+rel = noopener
+
+_blanc = target
+innerText = Find out how to automate these controls without XPath
+
+<label class="control-label" for="input-password">Password</label>
+tagName = label
+countOfAttribute = 2
+for = input-password
+control-label = class
+innerText =Password
